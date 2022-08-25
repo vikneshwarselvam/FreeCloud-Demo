@@ -5,4 +5,4 @@ Freecloud is a opensource alternative to cloud services which allows users to sh
 A user with a powerful GPU can share his GPU with others looking to train their ML Model and earn credits and can use those credits when he needs a CPU to compile some large codebase into binary
 
 # Demo
-[![Freecloud Demo] (screenshots/utlizing_terminal_1.png)](https://youtu.be/aukB_ukh03s)
+[![Freecloud Demo](/screenshots/utlizing_terminal_1.png)](https://youtu.be/aukB_ukh03s)
